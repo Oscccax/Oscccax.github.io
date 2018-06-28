@@ -1,14 +1,15 @@
 ## Welcome, there is Oscccax.
 
-You can use the [editor on GitHub](https://github.com/Oscccax/Oscccax.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Points
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+& There is still not any thing in this web.
 
-### Markdown
+& You can search and view game [次元猎人](https://www.taptap.com/app/16462).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+& In the game, my name is **三个字cr**.
+### ------------------------------Under this line, everything is still being build.----------------------------
 ```markdown
+
 Syntax highlighted code block
 
 # Header 1
